@@ -2,7 +2,7 @@
 
 Submitted by: **Abdelrahman**
 
-**NationalParksApp** is an Android app that displays Emails with the sender, message, and subject in a RecyclerView format 
+**NationalParksApp** is an Android app that displays famous national parks in a recycler view format
 
 Time spent: **2** hours spent in total
 
